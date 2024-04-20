@@ -1,1 +1,1 @@
-# ease-editor
+# easy-editor
